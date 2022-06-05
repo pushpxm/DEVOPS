@@ -17,7 +17,8 @@ So how does Internet works?
 
 We are all familiar with the web surfing, 
 we will understand it with the no. of examples
-The first thought that comes in my mind related to Internet is -
+The first thought that comes in my mind related to Internet is - while watching a youtube video, How it is working? How do we get to watch the video over one click??
+Data center: 
 The data centers contains information and data stored, and that is the source of what we get through the
 internet.
 well that is true. 
@@ -46,9 +47,15 @@ readable domain names (for example- www.google.com ) to machine IP addesses ( fo
 *Format of IP Address is X.X.X.X
 where X can have value between 0-255.
 
-
-
-
+so far we hve learnt about: 
+we type www.youtube.com on the browser (which is domain name and also has its IP address) 
+-> so we basically request the info from the data centers. 
+It gets the request and send us the requested data in the form of Packets. 
+the data is sent into packets. And each packet is the collection of some bits for ex 010110 ( 6 bits ) and routed thorugh our device and takes the best route available.  
+The packets are sent via optical cable (from the data center to our IP address).
+now the question is if it comes from the optical cable, our mobiles dont have the connection of the optical cable, how do we get the data then??
+Well the optical cable is connected to the Cellular tower, and the cellular tower gets the data from the data center in the form of electromagentic waves. 
+and that pretty much...
 
 
 
