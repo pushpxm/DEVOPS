@@ -84,3 +84,28 @@ I've learnt about : 1) How to convert IP Addresses to Binary form and vice versa
                     3) Subnet mask 
                     4) Default Gateway
 
+09-06-2022
+ 1) SSL
+ - Stands for Secure Socket Layer
+ - Its a protocol
+ it ensures the security in the internet
+ - uses public key encription
+ 
+ user -> facebook.com
+ 1. Web browser, send a message to web server for conneting a SSL Website
+ 2. Web browser request the web server to identify itself
+ 3. Web server will send the copy of its SSL Certificate 
+ 4. Browser will authenticate the certificate and send msg back to server. 
+ 
+ 2) TLS
+ stands for transport layer security
+ prevents third party hacking
+ - formed by two layers
+  1- Record protocol : this part of the communiction can be used with or without encryption.
+  2- Handshake protocol : To authenticate ack other and to make use of encryption algorithms.
+ 
+ 
+ 
+ 
+ 
+ 
