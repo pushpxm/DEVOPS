@@ -2,4 +2,11 @@ playing with git and its commands.
 1. git status
 2. git commit
 
-3.third modification
+3.third modification done
+and added with the command -> 3.git add .
+
+now modifying again and commanding status.
+
+working succefully, now adding this file to remote repositary in seconds,
+for that i have to do git commit. 
+what-> git commit -> will allow me to add description of the file tat i commited the changes. 
