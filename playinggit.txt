@@ -1,0 +1,5 @@
+playing with git and its commands. 
+1. git status
+2. git commit
+
+3.third modification
