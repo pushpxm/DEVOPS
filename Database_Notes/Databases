@@ -1,0 +1,10 @@
+20 June 2022
+Started learning about basic concepts of Databases. 
+-Application uses databases to persist data.
+
+*Uploaded PDF notes where I mentioned about:
+-How developers use them and the best practices?
+-How our applications talks to the database?
+-Databases endpoints/address and Credentials -> Best practices
+-DB in production and the role of DEVOPS engineer regarding DB.
+
