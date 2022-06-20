@@ -8,3 +8,12 @@ Started learning about basic concepts of Databases.
 -Databases endpoints/address and Credentials -> Best practices
 -DB in production and the role of DEVOPS engineer regarding DB.
 
+21 June 2022
+Learned about the types of database and their use cases. 
+*Uploaded Rough PDF notes where I mentioned about:
+-Wide column DB
+-Key Value DB
+-Document DB
+-Relational DB
+-Graph DB
+-Search DB
