@@ -5,9 +5,9 @@ The topics that I'm going to cover are:
 1. Networking - DONE
 2. SSH server - DONE
 3. Version control with GIT - DONE
-4. package manager and tools - 17/06 to 24/06
-5. Cloud and IaaS 
-6. Artifact Repo 
+4. package manager and tools - DONE
+5. Cloud and IaaS - DONE
+6. Artifact Repo - Processing...
 7. Containers
 8. Build Automation
 9. AWS Services
