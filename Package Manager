@@ -2,3 +2,6 @@ Pakage manager tools
 - Gradle
 - NodeJS
 - Maple
+
+Learnt how to build the .jar file with ./gradlew build
+and how to publish with ./gradlew publish
